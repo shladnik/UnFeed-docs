@@ -21,7 +21,7 @@
   All image display and navigation happens on-device.
 
 - **AI Captions**  
-  If you turn on “AI Captions,” we upload a small, down-scaled JPEG and metadata **only** to generate a short joke or caption.
+  If you turn on “AI Captions,” we upload a small, down-scaled JPEG and metadata **only** to generate a short joke or caption. Note that these uploads go directly to the third-party AI service; UnFeed itself does **not** send, collect, or store this data on any UnFeed servers.
 
 - **Sharing**  
   When you hit “Share,” the app prepares a new image with a watermark for iOS’s standard share sheet—you choose the target app.
