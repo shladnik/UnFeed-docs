@@ -55,5 +55,5 @@ We may update this policy as we add features. If we make material changes, we’
 ## 8. Contact
 
 If you have questions or concerns, contact us here:
-`https://unfeed.cc/`
+[unfeed.cc](https://unfeed.cc)
 
