@@ -29,7 +29,7 @@
 ## 3. Third-Party Services
 
 - **Caption Generation**  
-  We use OpenRouter.ai’s chat API to produce captions. See their [privacy policy](https://openrouter.ai/policy) for details on how they handle data.
+  We use OpenRouter.ai’s chat API to produce captions. See their [privacy policy](https://openrouter.ai/privacy) for details on how they handle data.
 
 - **Apple APIs**  
   Photos and CoreLocation services are governed by Apple’s privacy practices.
