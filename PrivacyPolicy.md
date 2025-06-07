@@ -36,7 +36,7 @@
 
 ## 4. Data Retention & Security
 
-- No user data is sent to or stored on UnFeed’s servers—everything stays on your device except the AI API calls you explicitly trigger, which go directly to the third-party caption provider.
+- No user data is sent to or stored on UnFeed’s servers—everything stays on your device except the AI API calls made when “AI Captions” is enabled, which go directly to the third-party caption provider.
 - We do not retain your images or metadata on any backend.
 
 ## 5. Your Choices
