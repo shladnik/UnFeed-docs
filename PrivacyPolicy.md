@@ -24,7 +24,7 @@
   If you turn on “AI Captions,” we upload a small, down-scaled JPEG and metadata **only** to generate a short joke or caption. Note that these uploads go directly to the third-party AI service; UnFeed itself does **not** send, collect, or store this data on any UnFeed servers.
 
 - **Sharing**  
-  When you hit “Share,” the app prepares a new image with a watermark for iOS’s standard share sheet—you choose the target app.
+  When you tap “Share,” UnFeed invokes iOS’s standard share sheet with a generated image. We don’t upload or store your photo on our servers—any further handling is managed by Apple and the app you choose.
 
 ## 3. Third-Party Services
 
