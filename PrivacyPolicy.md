@@ -54,9 +54,6 @@ We may update this policy as we add features. If we make material changes, we’
 
 ## 8. Contact
 
-If you have questions or concerns, email us at  
-`privacy@unfeed.cc`
+If you have questions or concerns, contact us here:
+`https://unfeed.cc/`
 
----
-
-**License for this doc:** CC0 (public domain)
