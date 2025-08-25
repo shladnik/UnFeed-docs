@@ -1,16 +1,16 @@
 # Privacy Policy for UnFeed
 
-**Effective Date:** June 7, 2025
+**Effective Date:** August 25, 2025
 
 ## 1. What We Collect
 
 - **Photos & Metadata**  
   - UnFeed reads your photo library (images, creation dates, EXIF metadata) **only** with your explicit permission.  
-  - If you enable AI Captions, a thumbnail of each photo plus minimal metadata (timestamp, location — if available) is sent to our third-party caption service.
+  - If you enable AI content, a thumbnail of each photo plus minimal metadata (timestamp, location — if available) is sent to a third-party AI service.
 
 - **Location**  
   - If a photo has GPS data, we use it to reverse-geocode a human-readable place name (e.g. city, country).  
-  - Geocoding happens locally when possible; in rare cases we send coordinates to Apple’s reverse-geocoding servers.
+  - Geocoding happens locally when possible. We send coordinates to Apple’s reverse-geocoding servers as needed.
 
 - **Usage Data**  
   - No analytics or crash-reporting is collected. UnFeed does not phone home with your usage patterns.
@@ -20,28 +20,28 @@
 - **Offline Browsing & Slideshow**  
   All image display and navigation happens on-device.
 
-- **AI Captions**  
-  If you turn on “AI Captions,” we upload a small, down-scaled JPEG and metadata **only** to generate a short joke or caption. Note that these uploads go directly to the third-party AI service; UnFeed itself does **not** send, collect, or store this data on any UnFeed servers.
+- **AI Content**  
+  If you turn on AI content, we upload a small, down-scaled JPEG and metadata **only** to generate a short image description. Note that these uploads go directly to the third-party AI service; UnFeed itself does **not** send, collect, or store this data on any UnFeed servers.
 
 - **Sharing**  
   When you tap “Share,” UnFeed invokes iOS’s standard share sheet with a generated image. We don’t upload or store your photo on our servers—any further handling is managed by Apple and the app you choose.
 
 ## 3. Third-Party Services
 
-- **Caption Generation**  
-  We use OpenRouter.ai’s chat API to produce captions. See their [privacy policy](https://openrouter.ai/privacy) for details on how they handle data.
+- **Content Generation**  
+  We use OpenRouter.ai’s chat API to produce content. See their [privacy policy](https://openrouter.ai/privacy) for details on how they handle data. We use models that do not collect data.
 
 - **Apple APIs**  
   Photos and CoreLocation services are governed by Apple’s privacy practices.
 
 ## 4. Data Retention & Security
 
-- No user data is sent to or stored on UnFeed’s servers—everything stays on your device except the AI API calls made when “AI Captions” is enabled, which go directly to the third-party caption provider.
+- No user data is sent to or stored on UnFeed’s servers—everything stays on your device except the AI API calls made when AI content is enabled, which go directly to the third-party content provider.
 - We do not retain your images or metadata on any backend.
 
 ## 5. Your Choices
 
-- **Disable AI Captions** at any time in settings—no data will be sent thereafter.  
+- **Disable AI Content** at any time in settings—no data will be sent thereafter.  
 - **Revoke Photo Access** in _Settings → UnFeed → Photos_; this stops all access to your library.
 
 ## 6. Children
